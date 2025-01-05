@@ -164,7 +164,7 @@ LoanLens/
 ├── README.md                        # This file
 ├── requirements.txt                 # Python dependencies
 ├── data/                            # Folder for any datasets
-│   └── german_credit_data.csv       # Example dataset (placeholder)
+│   └── credit_data.csv              # Example dataset (placeholder)
 ├── notebooks/                       # Optional Jupyter notebooks
 │   └── ML_Experiments.ipynb
 ├── ml_pipeline/                     # ML code (training, inference, etc.)
