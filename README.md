@@ -269,6 +269,4 @@ We welcome issues or pull requests. For major changes, please open an issue to d
 ---
 
 ## License
-
-*(Specify your project’s license, e.g., MIT, Apache 2.0, etc.)*  
-Example:  
+(we will update it later)  
