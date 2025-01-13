@@ -1,5 +1,5 @@
 // Example: Simple file upload status update
-
+alert("Welcome to the LoanLens fintech webapp testing- demo")
 document.addEventListener("DOMContentLoaded", function() {
     const fileUpload = document.getElementById("fileUpload");
     const uploadStatus = document.querySelector(".upload-status p");
