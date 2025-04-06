@@ -1,4 +1,3 @@
-````markdown
 # LoanLens
 
 LoanLens is a **credit risk assessment** web application that combines **traditional financial data** with **alternative data sources**—like social media sentiment, spending patterns, and geolocation—to provide **comprehensive and dynamic** risk evaluations.
@@ -96,8 +95,8 @@ Below are the **unique points** that make LoanLens stand out. We incorporate the
     - **Method**: Use psychometric tests for individuals lacking a traditional credit history.  
     - **Implementation Tools**: Custom surveys, psychometric APIs.  
     - **Feature**: “Credit score for people with limited financial records.”
-
-14. **Risk Segmentation**  
+   
+      14. **Risk Segmentation**  
     - **Method**: Cluster users into low, moderate, and high-risk segments.  
     - **Implementation Tools**: K-Means segmentation.  
     - **Feature**: Segment-based loan offers, e.g., low interest for low-risk users.
@@ -118,7 +117,14 @@ Below are the **unique points** that make LoanLens stand out. We incorporate the
     - **Feature**: Higher default risk if holiday spending spikes beyond income growth.
 
 18. **Reward System for Good Financial Behavior**  
-    - **Method**: Offer lower interest rates or extra reward points for timely payments.  <!-- MORE README -->
+    - **Method**: Offer lower interest rates or extra reward points for timely payments.  
+    - **Implementation Tools**: Gamification + reward tracking.  
+    - **Feature**: “Earn loyalty points for every on-time utility bill.”
+
+19. **Multi-Dimensional Credit Risk Model**  
+    - **Method**: Incorporate job security, health data, or other risk factors for a 360-degree profile.  
+    - **Implementation Tools**: Bayesian networks.  
+    - **Feature**: “High credit risk, but stable job → Lower overall risk than predicted.”
 
 20. **Personalized Loan Suggestions**  
     - **Method**: Recommend loan products suited to the user’s risk profile.  
@@ -240,16 +246,6 @@ Typical steps include:
 6. **Contact/Support** (`contact.html`): FAQs, contact details, support form.
 
 ---
-<!-- NOT DONE YET -->
-
-    - **Implementation Tools**: Gamification + reward tracking.  
-    - **Feature**: “Earn loyalty points for every on-time utility bill.”
-
-19. **Multi-Dimensional Credit Risk Model**  
-    - **Method**: Incorporate job security, health data, or other risk factors for a 360-degree profile.  
-    - **Implementation Tools**: Bayesian networks.  
-    - **Feature**: “High credit risk, but stable job → Lower overall risk than predicted.”
-<!-- NOT DONE YET -->
 
 ## Usage
 
